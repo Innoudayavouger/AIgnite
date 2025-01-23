@@ -1,0 +1,9 @@
+AI-Powered Customer Query Assistant 
+• Description: A ChatGPT-driven chatbot that answers customer inquiries 
+  about products, order statuses, refunds, and store policies. 
+• Core Features: 
+o Real-time natural language responses for FAQs. 
+o Integration with product inventory APIs for personalized answers. 
+o React-based interface for chat, with typing indicators and history. 
+o Node.js backend to handle ChatGPT API calls and user session 
+management.
