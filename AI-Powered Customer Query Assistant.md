@@ -9,16 +9,7 @@ A ChatGPT-driven chatbot that answers customer inquiries about products, order s
 - React-based interface for chat, with typing indicators and chat history.  
 - Node.js backend to handle ChatGPT API calls and user session management.
 
-
-## 5. AI-Driven Email Marketing Platform
-
-**Description:**  
-A tool that uses AI to draft and optimize email campaigns for retail promotions.
-
-**Core Features:**  
-- ChatGPT to generate personalized email copy based on product details and customer segments.  
-- Email performance analytics with React charts.  
-- Node.js for scheduling and managing email campaigns.  
+ 
 
 User Management
 Database Setup: Ensure the Users table is created in the database when the backend server starts. If the table already exists, no action is needed.
